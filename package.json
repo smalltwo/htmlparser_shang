@@ -1,7 +1,7 @@
 {
-  "name": "htmlparser2",
+  "name": "htmlparser_shang",
   "description": "Fast & forgiving HTML/XML/RSS parser",
-  "version": "3.9.2",
+  "version": "1.0.0",
   "author": "Felix Boehm <me@feedic.com>",
   "keywords": [
     "html",
@@ -15,11 +15,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/fb55/htmlparser2.git"
+    "url": "git://github.com/smalltwo/htmlparser_shang.git"
   },
   "bugs": {
     "mail": "me@feedic.com",
-    "url": "http://github.com/fb55/htmlparser2/issues"
+    "url": "http://github.com/smalltwo/htmlparser_shang/issues"
   },
   "directories": {
     "lib": "lib/"
