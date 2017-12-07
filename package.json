@@ -1,8 +1,8 @@
 {
   "name": "htmlparser_shang",
   "description": "Fast & forgiving HTML/XML/RSS parser",
-  "version": "1.0.0",
-  "author": "Felix Boehm <me@feedic.com>",
+  "version": "0.1.0",
+  "author": "hongjie.peng@shangri-la.com",
   "keywords": [
     "html",
     "parser",
@@ -18,7 +18,7 @@
     "url": "git://github.com/smalltwo/htmlparser_shang.git"
   },
   "bugs": {
-    "mail": "me@feedic.com",
+    "mail": "hongjie.peng@shangri-la.com",
     "url": "http://github.com/smalltwo/htmlparser_shang/issues"
   },
   "directories": {
